@@ -1,0 +1,15 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mongodb = "2.8.1"
+rocket = "0.5.0"
+serde = "1.0"
+swagger-ui = "0.1.5"
+wasm-bindgen = "0.2.91"
+yew = "0.21.0"
+
